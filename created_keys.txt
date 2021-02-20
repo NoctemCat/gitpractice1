@@ -1,5 +1,6 @@
 key 1
 branch key
+<<<<<<< HEAD
 
 changes
 
@@ -8,3 +9,10 @@ other user
 111
 
 dude2
+=======
+<<<<<<< HEAD
+local changes
+=======
+changes
+>>>>>>> changes
+>>>>>>> 1e1efa18eb9ca6612c4cc2cf98f60e38b015d738
